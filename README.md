@@ -43,3 +43,7 @@ The data_offers data set is a simple map with 2 columns:
 order_gk - order number, associated with the same column from the orders data set
 
 offer_id - ID of an offer
+
+#Data Analysis
+
+Please see codes in the file Insights from Failed Orders.ipynb.
